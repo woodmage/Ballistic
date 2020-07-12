@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballistic", "Ballistic\Ballistic.csproj", "{5FF3F30D-9A7E-4B57-B325-3B2CBF8DE433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF3F30D-9A7E-4B57-B325-3B2CBF8DE433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF3F30D-9A7E-4B57-B325-3B2CBF8DE433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF3F30D-9A7E-4B57-B325-3B2CBF8DE433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF3F30D-9A7E-4B57-B325-3B2CBF8DE433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA84151-800A-4A1A-9D59-B0044CC5D7D2}
+	EndGlobalSection
+EndGlobal
